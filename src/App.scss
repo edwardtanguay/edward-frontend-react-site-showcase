@@ -3,4 +3,12 @@ body {
   color: #ccc;
   padding: 20px;
   font-size: 1.4rem;
+
+  a {
+    color: #bbb;
+    text-decoration: none;
+  }
+  a.active {
+    color: yellow;
+  }
 }
