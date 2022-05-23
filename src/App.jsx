@@ -5,6 +5,7 @@ function App() {
     <div className="App">
     <h1>React Site</h1>
     <p>Welcome to this site.</p>
+    <img src="src/images/bashCookbook.jpg"/>
     </div>
   )
 }
